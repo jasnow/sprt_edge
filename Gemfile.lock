@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 46bbdf58b50a34986d671091a0a7188b66492cd5
+  revision: 0d2675f84f54504e5ba25b2f53b00bac239ef393
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -67,7 +67,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: ad583843fdaa0c1f61462a346a495981ca314460
+  revision: 37e097d24763106a7a3f06c5ec0b6242cff18ea2
   specs:
     turbolinks (3.0.0)
       coffee-rails
