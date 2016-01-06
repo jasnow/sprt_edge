@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 3d90a6348d1541a2ecd00d959f9eec99ec78905a
+  revision: 0ff3e9466a4f476ee2e56d9e2b40acce01924683
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -96,7 +96,7 @@ GEM
       timers (>= 4.1.1)
     celluloid-supervision (0.20.5)
       timers (>= 4.1.1)
-    childprocess (0.5.8)
+    childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.0)
     coffee-rails (4.1.1)
