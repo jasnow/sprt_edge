@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 0ff3e9466a4f476ee2e56d9e2b40acce01924683
+  revision: e10cb1e8816a0f132536d34e46bc30ccb8cbe43f
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -34,7 +34,6 @@ GIT
       globalid (>= 0.3.6)
     activemodel (5.0.0.beta1)
       activesupport (= 5.0.0.beta1)
-      builder (~> 3.1)
     activerecord (5.0.0.beta1)
       activemodel (= 5.0.0.beta1)
       activesupport (= 5.0.0.beta1)
