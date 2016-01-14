@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: f5ab4055b909e7b325304c5a7e414c28bbe441b7
+  revision: 24ad8c058cae81874569da679df4d074694578c2
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -111,7 +111,7 @@ GEM
       eventmachine (~> 1.0)
       hiredis (~> 0.5.0)
     erubis (2.7.0)
-    eventmachine (1.0.9)
+    eventmachine (1.0.9.1)
     execjs (2.6.0)
     faye-websocket (0.10.2)
       eventmachine (>= 0.12.0)
