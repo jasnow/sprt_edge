@@ -1,10 +1,9 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 6cbb2538066dc6222210af14bfdd4bad6ef32a7a
+  revision: 5d1b7c3b441654e8008dcd303f5367883ec660a6
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
-      celluloid (~> 0.17.2)
       coffee-rails (~> 4.1.0)
       em-hiredis (~> 0.3.0)
       faye-websocket (~> 0.10.0)
@@ -78,23 +77,6 @@ GEM
     arel (7.0.0)
     builder (3.2.2)
     byebug (8.2.1)
-    celluloid (0.17.2)
-      celluloid-essentials
-      celluloid-extras
-      celluloid-fsm
-      celluloid-pool
-      celluloid-supervision
-      timers (>= 4.1.1)
-    celluloid-essentials (0.20.5)
-      timers (>= 4.1.1)
-    celluloid-extras (0.20.5)
-      timers (>= 4.1.1)
-    celluloid-fsm (0.20.5)
-      timers (>= 4.1.1)
-    celluloid-pool (0.20.5)
-      timers (>= 4.1.1)
-    celluloid-supervision (0.20.5)
-      timers (>= 4.1.1)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.0)
@@ -134,7 +116,6 @@ GEM
       guard-compat (~> 1.2)
       minitest (>= 3.0)
     hiredis (0.5.2)
-    hitimes (1.2.3)
     i18n (0.7.0)
     iniparse (1.4.2)
     jbuilder (2.4.0)
@@ -228,8 +209,6 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.2)
-    timers (4.1.1)
-      hitimes
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (2.7.2)
