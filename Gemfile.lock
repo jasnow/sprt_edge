@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: dfa48f200cbc5c1ca18457a8cde14642e12af594
+  revision: 3be9a34e78835a8dafc3438f60afb412613773b9
   specs:
     actioncable (5.0.0.beta2)
       actionpack (= 5.0.0.beta2)
@@ -60,7 +60,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: dd31f4b2996f2300631f89339ada82c65b95f4c2
+  revision: ee7c0c23679a31b5c6e2455869998084b99fd33f
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -184,7 +184,7 @@ GEM
       rdoc (~> 4.0)
     shellany (0.0.1)
     slop (3.6.0)
-    spring (1.6.2)
+    spring (1.6.3)
     sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
