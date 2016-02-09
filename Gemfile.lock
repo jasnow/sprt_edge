@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: d3150c81061ff4e6d052ac1ff2dcd62a1daca28f
+  revision: 0e70595acc8796c3e0854ef72df478d597243e68
   specs:
     actioncable (5.0.0.beta2)
       actionpack (= 5.0.0.beta2)
@@ -105,7 +105,7 @@ GEM
       minitest (>= 3.0)
     i18n (0.7.0)
     iniparse (1.4.2)
-    jbuilder (2.4.0)
+    jbuilder (2.4.1)
       activesupport (>= 3.0.0, < 5.1)
       multi_json (~> 1.2)
     jquery-rails (4.1.0)
@@ -168,9 +168,10 @@ GEM
     rails_stdout_logging (0.0.4)
     rake (10.5.0)
     rb-fsevent (0.9.7)
-    rb-inotify (0.9.6)
+    rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    rdoc (4.2.1)
+    rdoc (4.2.2)
+      json (~> 1.4)
     ruby-progressbar (1.7.5)
     sass (3.4.21)
     sass-rails (5.0.4)
