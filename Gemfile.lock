@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 3156a7692c3c51adb846252192364172b05bd67f
+  revision: e30897f8b948bd7248090518fca63895a19bd6e8
   specs:
     actioncable (5.0.0.beta2)
       actionpack (= 5.0.0.beta2)
@@ -74,7 +74,7 @@ GEM
     byebug (8.2.2)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
-    coderay (1.1.0)
+    coderay (1.1.1)
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.1.x)
