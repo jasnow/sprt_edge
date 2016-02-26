@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: fcec068bf913d74146703a02388608aa54d4f3a8
+  revision: bf1ac69636f6dabfd993afd4ad29416514816daf
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -185,7 +185,7 @@ GEM
       rdoc (~> 4.0)
     shellany (0.0.1)
     slop (3.6.0)
-    spring (1.6.3)
+    spring (1.6.4)
     sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
