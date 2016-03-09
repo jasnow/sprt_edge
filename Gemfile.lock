@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 8c2a697380e9661563fb545bc860c4f1abe94bcd
+  revision: b165d73f2ccd421c9f3518ce9bf5bcb322440cb7
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -166,7 +166,7 @@ GEM
       rails_stdout_logging
     rails_serve_static_assets (0.0.5)
     rails_stdout_logging (0.0.4)
-    rake (10.5.0)
+    rake (11.0.1)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
