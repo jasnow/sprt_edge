@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 1c3afbab779f052a3fc6d5e2747874b3347d58cf
+  revision: 4440df10a051d7d8ea2da6fdaa2e57342c2e027e
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -71,7 +71,7 @@ GEM
     ansi (1.5.0)
     arel (7.0.0)
     builder (3.2.2)
-    byebug (8.2.2)
+    byebug (8.2.3)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.1)
