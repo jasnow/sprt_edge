@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 8e7715ae31dba383f1c0497adf1b85c7a99ef5da
+  revision: 4c76ce640449cc2568e31b5ed533caec8af5e39f
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -113,7 +113,7 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (1.8.3)
-    listen (3.0.6)
+    listen (3.1.1)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     loofah (2.0.3)
