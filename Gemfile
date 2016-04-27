@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', github: 'rails/rails'
 gem 'turbolinks', github: 'rails/turbolinks' # Needed to fix dep warnings.
 
-ruby '2.3.0'
+ruby '2.3.1'
 
 gem 'uglifier'
 gem 'coffee-rails'
