@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 285292946a18aaf90e00171a762ce57647828751
+  revision: a4b3c78e8619ba84625ceb83118915ef36ec2cfc
   specs:
     rails (5.0.0.beta4)
       actioncable (= 5.0.0.beta4)
@@ -125,7 +125,7 @@ GEM
       rails (>= 2.3.3)
     mini_portile2 (2.0.0)
     minitest (5.8.4)
-    minitest-reporters (1.1.8)
+    minitest-reporters (1.1.9)
       ansi
       builder
       minitest (>= 5.0)
