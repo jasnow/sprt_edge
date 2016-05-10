@@ -7,12 +7,12 @@ gem 'turbolinks', github: 'rails/turbolinks' # Needed to fix dep warnings.
 ruby '2.3.1'
 
 gem 'uglifier'
-gem 'coffee-rails'
+gem 'coffee-rails', github: 'rails/coffee-rails' # 5/10/2016: Needed for Rails 5.1
 gem 'jquery-rails'
 gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
-gem 'sass-rails'
+gem 'sass-rails', github: 'rails/sass-rails' # 5/10/2016: Needed for Rails 5.1
 gem 'sdoc', group: :doc
 gem 'sprockets'
 gem 'sprockets-rails'
