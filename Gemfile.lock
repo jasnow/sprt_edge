@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: b98c1f948903cef4bdd88a8d6777e480f5770d2f
+  revision: 1a4deb9664bbb9f69a8fd73d6da3ac0e8c4405b6
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -151,7 +151,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    multi_json (1.12.0)
+    multi_json (1.12.1)
     nenv (0.3.0)
     nio4r (1.2.1)
     nokogiri (1.6.7.2)
