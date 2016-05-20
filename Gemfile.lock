@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 89e2f7e722e06f900bdb1c14db33073c90d7cdea
+  revision: 0670a64481d151854c909035841d256d9b906edc
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -89,7 +89,7 @@ GEM
     ansi (1.5.0)
     arel (7.0.0)
     builder (3.2.2)
-    byebug (9.0.3)
+    byebug (9.0.4)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.1)
@@ -100,14 +100,14 @@ GEM
     concurrent-ruby (1.0.2)
     debug_inspector (0.0.2)
     erubis (2.7.0)
-    execjs (2.6.0)
+    execjs (2.7.0)
     ffi (1.9.10)
     formatador (0.2.5)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
-    guard (2.13.0)
+    guard (2.14.0)
       formatador (>= 0.2.4)
-      listen (>= 2.7, <= 4.0)
+      listen (>= 2.7, < 4.0)
       lumberjack (~> 1.0)
       nenv (~> 0.1)
       notiffany (~> 0.0)
@@ -214,7 +214,7 @@ GEM
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
-    websocket-driver (0.6.3)
+    websocket-driver (0.6.4)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
 
