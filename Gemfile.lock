@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 8fc355e2341f943f8533fbafa64a787c1633f086
+  revision: 95ef0be951a24d50e16b5f5ceeeba584f9d4f18e
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -115,7 +115,7 @@ GEM
       shellany (~> 0.0)
       thor (>= 0.18.1)
     guard-compat (1.2.1)
-    guard-minitest (2.4.4)
+    guard-minitest (2.4.5)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
     i18n (0.7.0)
