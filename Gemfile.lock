@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: f27a932d6f0a3c991c3e8b1968236c79f2c1936a
+  revision: 05e62a1447676b1bf9e4359024c30199dee5d351
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -212,7 +212,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
-    web-console (3.2.0)
+    web-console (3.2.1)
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
