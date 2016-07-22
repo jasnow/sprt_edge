@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'rails', github: 'rails/rails'
+gem 'rails',      github: 'rails/rails'
+gem 'sass-rails', github: 'rails/sass-rails'
 
 ruby '2.4.0'
 
 gem 'coffee-rails'
-gem 'sass-rails'
 gem 'turbolinks'
 gem 'uglifier'
 gem 'jquery-rails'
