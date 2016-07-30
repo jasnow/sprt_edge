@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: a8025faa7da7a8b84d25e75ab00b1f3990f0b1c6
+  revision: 815b730b1b79158511f9f4c8465c476b9fe9b7e0
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -103,7 +103,7 @@ GEM
       shellany (~> 0.0)
       thor (>= 0.18.1)
     guard-compat (1.2.1)
-    guard-minitest (2.4.5)
+    guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
     i18n (0.7.0)
@@ -134,7 +134,7 @@ GEM
       rails (>= 2.3.3)
     mini_portile2 (2.1.0)
     minitest (5.9.0)
-    minitest-reporters (1.1.10)
+    minitest-reporters (1.1.11)
       ansi
       builder
       minitest (>= 5.0)
@@ -145,7 +145,7 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
-    notiffany (0.1.0)
+    notiffany (0.1.1)
       nenv (~> 0.1)
       shellany (~> 0.0)
     overcommit (0.34.2)
@@ -200,7 +200,7 @@ GEM
     turbolinks-source (5.0.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.0.0)
+    uglifier (3.0.1)
       execjs (>= 0.3.0, < 3)
     web-console (3.3.1)
       actionview (>= 5.0)
