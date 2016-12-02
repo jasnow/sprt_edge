@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f9592e1631615621d4088498019bf576ac6e85a7
+  revision: 8ce903af862d56b77d60c3809c0442cdac9d6c89
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -133,8 +133,8 @@ GEM
       minitest (> 1.2.0)
       rails (>= 2.3.3)
     mini_portile2 (2.1.0)
-    minitest (5.9.1)
-    minitest-reporters (1.1.12)
+    minitest (5.10.1)
+    minitest-reporters (1.1.13)
       ansi
       builder
       minitest (>= 5.0)
@@ -198,7 +198,7 @@ GEM
     turbolinks-source (5.0.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.0.3)
+    uglifier (3.0.4)
       execjs (>= 0.3.0, < 3)
     web-console (3.4.0)
       actionview (>= 5.0)
