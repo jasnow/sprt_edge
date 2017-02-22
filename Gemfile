@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'i18n', '0.8.0.beta1' # TEMP
-
 gem 'rails',      git: 'https://github.com/rails/rails'
 
 ruby '2.4.0'
@@ -15,7 +13,7 @@ gem 'jquery-rails'
 gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
-gem 'sdoc', '1.0.0.beta2', group: :doc # LOCKED DOWN
+gem 'sdoc', '1.0.0.rc1', group: :doc # LOCKED DOWN
 gem 'sprockets'
 gem 'sprockets-rails'
 
