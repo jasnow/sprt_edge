@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 943efa30f5475f51fe90df5f85703d191dbd7d6e
+  revision: 97bd56e674603529d96c6f6e85d695dd24208afb
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -127,7 +127,7 @@ GEM
       minitest (> 1.2.0)
       rails (>= 2.3.3)
     mini_portile2 (2.1.0)
-    minitest (5.10.1)
+    minitest (5.10.2)
     minitest-reporters (1.1.14)
       ansi
       builder
@@ -136,7 +136,7 @@ GEM
     multi_json (1.12.1)
     nenv (0.3.0)
     nio4r (2.0.0)
-    nokogiri (1.7.1)
+    nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
     notiffany (0.1.1)
       nenv (~> 0.1)
