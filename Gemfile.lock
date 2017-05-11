@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: f73b845610931ddf03c756d804982776a3cc69a4
+  revision: 4b969ea417f097d217ff1f662d2fe8c406d21b99
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -116,7 +116,7 @@ GEM
       ruby_dep (~> 1.2)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
-    lumberjack (1.0.11)
+    lumberjack (1.0.12)
     mail (2.6.5)
       mime-types (>= 1.16, < 4)
     method_source (0.8.2)
