@@ -6,7 +6,7 @@ ruby '2.4.0'
 
 gem 'sass-rails'
 
-gem 'coffee-rails', git: 'https://github.com/rails/coffee-rails'
+gem 'coffee-rails'
 gem 'turbolinks'
 gem 'uglifier'
 gem 'jquery-rails'
