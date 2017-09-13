@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 5af7d475c8cd7d3dbffca7452f3dcb221896e8e5
+  revision: 770970fbe226dd70f96cbc15de56da075cd5a50f
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -171,7 +171,7 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rdoc (5.1.0)
-    ruby-progressbar (1.8.1)
+    ruby-progressbar (1.8.3)
     ruby_dep (1.5.0)
     sass (3.5.1)
       sass-listen (~> 4.0.0)
