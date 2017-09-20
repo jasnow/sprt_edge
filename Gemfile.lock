@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 30767f980faa2d7a0531774ddf040471db74a23b
+  revision: e7f39af3fafbb83e93b3bb58a03aefbf10752f41
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -149,10 +149,9 @@ GEM
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
     pg (0.21.0)
-    pry (0.10.4)
+    pry (0.11.0)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
-      slop (~> 3.4)
     rack (2.0.3)
     rack-test (0.7.0)
       rack (>= 1.0, < 3)
@@ -187,7 +186,6 @@ GEM
     sdoc (1.0.0.rc3)
       rdoc (~> 5.0)
     shellany (0.0.1)
-    slop (3.6.0)
     spring (2.0.2)
       activesupport (>= 4.2)
     sprockets (4.0.0.beta5)
