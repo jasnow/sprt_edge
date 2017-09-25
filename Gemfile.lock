@@ -1,12 +1,12 @@
 GIT
   remote: https://github.com/rails/arel
-  revision: 2b07cebc67e9d980ff6a13751687745cfc03ed9f
+  revision: 1ede2ad3c7ae41ed1e06a92358b37c880dea9837
   specs:
     arel (9.0.0.alpha)
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 6aa56460d54518d126663b1ddc6091330b8d16b4
+  revision: ab08f33f312c20638b9a7c38ee6318727c7f107d
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -86,6 +86,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
+    crass (1.0.2)
     erubi (1.6.1)
     execjs (2.7.0)
     ffi (1.9.18)
@@ -118,7 +119,8 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
-    loofah (2.0.3)
+    loofah (2.1.1)
+      crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     lumberjack (1.0.12)
     mail (2.6.6)
