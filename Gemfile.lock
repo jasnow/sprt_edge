@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: d147ed02a00fe50f3428962dfadb5de076c56a5e
+  revision: 453ab1758bd57b971f3ecc9f173198e8fac38e1c
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -91,7 +91,7 @@ GEM
     execjs (2.7.0)
     ffi (1.9.18)
     formatador (0.2.5)
-    globalid (0.4.0)
+    globalid (0.4.1)
       activesupport (>= 4.2.0)
     guard (2.14.1)
       formatador (>= 0.2.4)
