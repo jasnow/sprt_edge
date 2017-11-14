@@ -1,12 +1,6 @@
 GIT
-  remote: https://github.com/rails/arel
-  revision: b0ad8046091ce45a20fc7a5cb68b4599f876bbbb
-  specs:
-    arel (9.0.0.alpha)
-
-GIT
   remote: https://github.com/rails/rails
-  revision: 499a4164ce9816c4913bf3db14787ea99ef2c266
+  revision: 0d90a8812e96b2498e11d76c2f09e112639287d1
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -39,7 +33,7 @@ GIT
     activerecord (5.2.0.alpha)
       activemodel (= 5.2.0.alpha)
       activesupport (= 5.2.0.alpha)
-      arel (= 9.0.0.alpha)
+      arel (>= 9.0)
     activestorage (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
       activerecord (= 5.2.0.alpha)
@@ -72,6 +66,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ansi (1.5.0)
+    arel (9.0.0)
     bindex (0.5.0)
     builder (3.2.3)
     byebug (9.1.0)
@@ -178,7 +173,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sass-rails (5.0.6)
+    sass-rails (5.0.7)
       railties (>= 4.0.0, < 6)
       sass (~> 3.1)
       sprockets (>= 2.8, < 4.0)
@@ -220,7 +215,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  arel!
+  arel
   byebug
   coffee-rails
   guard
