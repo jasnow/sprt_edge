@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: b4f64cb1595f2abd3d7e47805273f4f029718829
+  revision: 2c08446e0c17a8813439d9325061caa589fbce9c
   specs:
     actioncable (5.2.0.beta2)
       actionpack (= 5.2.0.beta2)
@@ -133,7 +133,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    multi_json (1.13.0)
+    multi_json (1.13.1)
     nenv (0.3.0)
     nio4r (2.2.0)
     nokogiri (1.8.1)
