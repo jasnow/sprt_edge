@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 05b7b80bcaeeb0357cdb6143fbeca1b3c73b5fb9
+  revision: 04edd9e819c258507ad462353dc7f06b7f2576b7
   specs:
     actioncable (5.2.0.beta2)
       actionpack (= 5.2.0.beta2)
@@ -102,7 +102,7 @@ GEM
     guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
-    i18n (0.9.1)
+    i18n (0.9.3)
       concurrent-ruby (~> 1.0)
     iniparse (1.4.4)
     jbuilder (2.7.0)
