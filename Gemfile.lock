@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4a786c0fdf63c9ed66a512f6026cd5fd47ed19d5
+  revision: f4bb51789a9fa23508367100e8d0a7df5cc8b161
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -168,7 +168,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    rdoc (6.0.3)
+    rdoc (6.0.4)
     ruby-progressbar (1.9.0)
     ruby_dep (1.5.0)
     sass (3.5.6)
