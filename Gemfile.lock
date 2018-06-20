@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 94360451eae2701fc04d6b132c44d9622bbe0cb5
+  revision: 59984a3cea6d4ade34c3df3097fdd1d9ab26bf65
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -203,7 +203,7 @@ GEM
     turbolinks-source (5.1.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.11)
+    uglifier (4.1.12)
       execjs (>= 0.3.0, < 3)
     web-console (3.6.2)
       actionview (>= 5.0)
