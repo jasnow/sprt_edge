@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: b9807eb53880a386890aa1919cf812fb9876b805
+  revision: a6e86dd2a86a89b7775e27a2f0e728cb6afd1513
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -101,7 +101,7 @@ GEM
     guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
-    i18n (1.0.1)
+    i18n (1.1.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.4.4)
     jbuilder (2.7.0)
@@ -169,7 +169,7 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rdoc (6.0.4)
-    ruby-progressbar (1.9.0)
+    ruby-progressbar (1.10.0)
     ruby_dep (1.5.0)
     sass (3.5.7)
       sass-listen (~> 4.0.0)
