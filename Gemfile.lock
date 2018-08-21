@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 3e3a0d1cc31ff929de2b27f2e6790d2ccdde9e2c
+  revision: 2b594b061f34094175fd3efeeb1cd5d245cbabe3
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -198,9 +198,9 @@ GEM
     thor (0.20.0)
     thread_safe (0.3.6)
     tilt (2.0.8)
-    turbolinks (5.1.1)
-      turbolinks-source (~> 5.1)
-    turbolinks-source (5.1.0)
+    turbolinks (5.2.0)
+      turbolinks-source (~> 5.2)
+    turbolinks-source (5.2.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     uglifier (4.1.18)
@@ -246,4 +246,4 @@ RUBY VERSION
    ruby 2.6.0p-1
 
 BUNDLED WITH
-   1.16.3
+   1.16.4
