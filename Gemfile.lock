@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 79d2d33489728f06838322d84da8de8f05b6afa1
+  revision: f6a16106fa124defcdf748514264098178173e83
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -87,7 +87,7 @@ GEM
     formatador (0.2.5)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
-    guard (2.14.2)
+    guard (2.15.0)
       formatador (>= 0.2.4)
       listen (>= 2.7, < 4.0)
       lumberjack (>= 1.0.12, < 2.0)
