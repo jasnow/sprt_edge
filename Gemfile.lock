@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: e9f6ce617be2f67b098e6fb689592f70c0009eb2
+  revision: 0fa5b5510c6faefc33ab3715e08b2604195a1063
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -81,7 +81,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.4)
     crass (1.0.4)
-    erubi (1.7.1)
+    erubi (1.8.0)
     execjs (2.7.0)
     ffi (1.9.25)
     formatador (0.2.5)
