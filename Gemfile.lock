@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 3e50a1bcd4b5f3ce26ec94ba061d039c0a6f8062
+  revision: d5699198a45a91250e1adb3ed899b0b46b4ac879
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -186,7 +186,7 @@ GEM
     shellany (0.0.1)
     spring (2.0.2)
       activesupport (>= 4.2)
-    sprockets (4.0.0.beta8)
+    sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.2.1)
@@ -233,7 +233,6 @@ DEPENDENCIES
   sass-rails
   sdoc
   spring
-  sprockets (= 4.0.0.beta8)
   sprockets-rails
   sqlite3
   turbolinks

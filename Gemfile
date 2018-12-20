@@ -14,7 +14,6 @@ gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
 gem 'sdoc', group: :doc
-gem 'sprockets', '4.0.0.beta8' # LOCKED DOWN
 gem 'sprockets-rails'
 
 group :development do
