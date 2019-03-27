@@ -6,11 +6,11 @@ ruby '2.6.2'
 
 gem 'sass-rails'
 
-gem 'coffee-rails'
+gem 'coffee-rails', git: 'https://github.com/rails/coffee-rails'
 gem 'turbolinks'
 gem 'uglifier'
 gem 'jquery-rails'
-gem 'jbuilder'
+gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
 gem 'sdoc', group: :doc
