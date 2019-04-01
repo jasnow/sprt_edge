@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: a3e061def14b50b86d9366d45565a4ad2efb0b08
+  revision: d3a6277fd60b73ecdf1ad52db97cd9808c2ab2a8
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -64,6 +64,7 @@ GIT
       activesupport (= 6.0.0.beta3)
     activestorage (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
+      activejob (= 6.0.0.beta3)
       activerecord (= 6.0.0.beta3)
       marcel (~> 0.3.1)
     activesupport (6.0.0.beta3)
