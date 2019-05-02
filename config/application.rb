@@ -28,5 +28,7 @@ module SampleApp50Rt
     # Do not swallow errors in after_commit/after_rollback callbacks.
     # REMOVED NEXT LINE FOR Rails 5.0
     # config.active_record.raise_in_transactional_callbacks = true
+
+    config.generators.javascript_engine = :js
   end
 end
