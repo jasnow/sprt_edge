@@ -9,7 +9,7 @@ gem 'sass-rails'
 gem 'turbolinks'
 gem 'uglifier'
 gem 'jquery-rails'
-gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
+gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
 gem 'sdoc', group: :doc
