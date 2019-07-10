@@ -83,7 +83,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ansi (1.5.0)
-    bindex (0.7.0)
+    bindex (0.8.0)
     builder (3.2.3)
     byebug (11.0.1)
     childprocess (1.0.1)
