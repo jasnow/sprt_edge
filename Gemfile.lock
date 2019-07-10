@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 84ff4f6ea2a118b47160e3fe7ed29bff52c2a7a2
+  revision: 2fe20cb55c76e6e50ec3a4ec5b03bbb65adba290
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -86,8 +86,8 @@ GEM
     bindex (0.7.0)
     builder (3.2.3)
     byebug (11.0.1)
-    childprocess (0.9.0)
-      ffi (~> 1.0, >= 1.0.11)
+    childprocess (1.0.1)
+      rake (< 13.0)
     coderay (1.1.2)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
@@ -151,8 +151,8 @@ GEM
     notiffany (0.1.1)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    overcommit (0.48.1)
-      childprocess (~> 0.6, >= 0.6.3)
+    overcommit (0.49.0)
+      childprocess (>= 0.6.3, < 2.0)
       iniparse (~> 1.4)
     pg (1.1.4)
     pry (0.12.2)
