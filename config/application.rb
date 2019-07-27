@@ -30,5 +30,7 @@ module SampleApp50Rt
     # config.active_record.raise_in_transactional_callbacks = true
 
     config.generators.javascript_engine = :js
+
+    config.action_dispatch.return_only_media_type_on_content_type = false
   end
 end
