@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a11e63f39907f828986f1832329c1b0530ca2aa3
+  revision: 063056b9e52c4fc8e813fd882bc4b737856013a5
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -145,7 +145,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     nenv (0.3.0)
-    nio4r (2.5.0)
+    nio4r (2.5.1)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     notiffany (0.1.3)
