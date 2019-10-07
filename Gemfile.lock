@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f2dc9788a8cfe4c5b52fa6e6d78d8d1afe941ba1
+  revision: d466033ad813d33451d3f232ae2124393734451e
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -140,7 +140,7 @@ GEM
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.12.2)
-    minitest-reporters (1.3.8)
+    minitest-reporters (1.4.0)
       ansi
       builder
       minitest (>= 5.0)
@@ -165,8 +165,8 @@ GEM
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
-    rails-html-sanitizer (1.2.0)
-      loofah (~> 2.2, >= 2.2.2)
+    rails-html-sanitizer (1.3.0)
+      loofah (~> 2.3)
     rails_12factor (0.0.3)
       rails_serve_static_assets
       rails_stdout_logging
