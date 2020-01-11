@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d89ee16bbc3b78c47cce7b09de448badf42a4124
+  revision: c2d7bdc6cc8f02d3dd6f1d3fecf3b3de6c8ee5f9
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -160,7 +160,7 @@ GEM
     pry (0.12.2)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
-    rack (2.0.8)
+    rack (2.1.0)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails-dom-testing (2.0.3)
