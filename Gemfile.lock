@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 57da1d0188f46face820bcdd4d8a78dbb393bdcf
+  revision: 854587c268a5474f824215c84409d44466fba9dd
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -128,7 +128,7 @@ GEM
     loofah (2.7.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
-    lumberjack (1.2.7)
+    lumberjack (1.2.8)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
     marcel (0.3.3)
@@ -140,7 +140,7 @@ GEM
       rails (>= 2.3.3)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    minitest (5.14.1)
+    minitest (5.14.2)
     minitest-reporters (1.4.2)
       ansi
       builder
