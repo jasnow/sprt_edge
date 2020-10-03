@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
 
-ruby '2.7.1'
+ruby '2.7.2'
 
 gem 'sassc-rails'
 
@@ -34,6 +34,6 @@ group :test do
 end
 
 group :production do
-  gem 'pg'
+#HID:  gem 'pg' # HID on 10/3/2020
   gem 'rails_12factor'
 end
