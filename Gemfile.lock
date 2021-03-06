@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: ec4e71e49a0e89339b42825c5ef0b71a3a02315f
+  revision: ddbf01c52e5094caf042f89b10bbe86d372b52e9
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -98,7 +98,7 @@ GEM
     crass (1.0.6)
     erubi (1.10.0)
     execjs (2.7.0)
-    ffi (1.14.2)
+    ffi (1.15.0)
     formatador (0.2.5)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
