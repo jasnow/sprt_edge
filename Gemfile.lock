@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 13327e0bec3e6b026aae34c15cbb2ed4c829aa8d
+  revision: 817148a7472413b31b3334c20fc08c6da5ffc68a
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -97,12 +97,12 @@ GEM
     concurrent-ruby (1.1.8)
     crass (1.0.6)
     erubi (1.10.0)
-    execjs (2.8.0)
+    execjs (2.8.1)
     ffi (1.15.0)
     formatador (0.2.5)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    guard (2.16.2)
+    guard (2.17.0)
       formatador (>= 0.2.4)
       listen (>= 2.7, < 4.0)
       lumberjack (>= 1.0.12, < 2.0)
