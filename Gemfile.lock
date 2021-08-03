@@ -146,7 +146,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     nenv (0.3.0)
-    nio4r (2.5.7)
+    nio4r (2.5.8)
     nokogiri (1.12.0-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.12.0-x86_64-linux)
