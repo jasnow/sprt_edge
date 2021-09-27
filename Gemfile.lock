@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 53000f3a2df5c59252d019bbb8d46728b291ec74
+  revision: 415c07b8631b3e8883709c42d5c572061595c640
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -147,9 +147,9 @@ GEM
       ruby-progressbar
     nenv (0.3.0)
     nio4r (2.5.8)
-    nokogiri (1.12.4-x86_64-darwin)
+    nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.12.4-x86_64-linux)
+    nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
     notiffany (0.1.3)
       nenv (~> 0.1)
