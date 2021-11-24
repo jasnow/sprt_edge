@@ -1,1 +1,1 @@
-rvm use 2.7.4@ruby2.7-rails7.0 --create
+rvm use 2.7.5@ruby2.7-rails7.0 --create
