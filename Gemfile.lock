@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5fa7049856cab9fbd188cad90d57947252ef9ea8
+  revision: 0181f0edd57a2149278bd59c3519233ca1e0a413
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -100,7 +100,7 @@ GEM
     execjs (2.8.1)
     ffi (1.15.4)
     formatador (0.3.0)
-    globalid (0.6.0)
+    globalid (1.0.0)
       activesupport (>= 5.0)
     guard (2.18.0)
       formatador (>= 0.2.4)
@@ -193,7 +193,7 @@ GEM
     sdoc (2.2.0)
       rdoc (>= 5.0)
     shellany (0.0.1)
-    spring (3.1.0)
+    spring (3.1.1)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
