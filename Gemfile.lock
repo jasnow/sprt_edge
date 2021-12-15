@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f469560060be48da97156ad54deda2781cea649e
+  revision: 139183cbce9b8251a2071d255b264ac0d99687d7
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -139,7 +139,7 @@ GEM
       minitest (> 1.2.0)
       rails (>= 2.3.3)
     mini_mime (1.1.2)
-    minitest (5.14.4)
+    minitest (5.15.0)
     minitest-reporters (1.4.3)
       ansi
       builder
