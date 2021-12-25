@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails', branch: 'main'
 
-ruby '3.1.0'
+ruby '3.0.3'
 
 gem 'sassc-rails'
 
