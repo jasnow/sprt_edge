@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: ee95658b258005047c89cc64b1ee56823becfda1
+  revision: 9b61af817911849d92aa5d3c7d9e0eabe651a47c
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -216,7 +216,7 @@ GEM
     stringio (3.0.1)
     terser (1.1.8)
       execjs (>= 0.3.0, < 3)
-    thor (1.1.0)
+    thor (1.2.1)
     tilt (2.0.10)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
