@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: de956f57733b309e5f7a0be1e9f86ab3e9160c64
+  revision: abde74c118a2391c90f4c8ac197a9628ef2acf9b
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -95,7 +95,7 @@ GEM
   specs:
     ansi (1.5.0)
     bindex (0.8.1)
-    brakeman (5.2.0)
+    brakeman (5.2.1)
     builder (3.2.4)
     childprocess (4.1.0)
     coderay (1.1.3)
