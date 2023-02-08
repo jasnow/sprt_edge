@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails', branch: 'main'
 
-ruby '3.1.1'
+ruby '3.2.0'
 
 gem 'sassc-rails'
 
@@ -24,6 +24,8 @@ group :development, :test do
   gem 'debug'
   gem 'spring'
   gem 'brakeman'
+  gem 'ruby_audit'
+  gem 'spektr'
 end
 
 group :test do
