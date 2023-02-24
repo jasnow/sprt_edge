@@ -25,6 +25,7 @@ group :development, :test do
   gem 'brakeman'
   gem 'ruby_audit'
   gem 'spektr'
+  gem 'simplecov'
 end
 
 group :test do
