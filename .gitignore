@@ -15,6 +15,7 @@
 /log/*.log
 /tmp
 coverage
+node_modules/
 
 # Ignore Spring files.
 spring/*.pid
