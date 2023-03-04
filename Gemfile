@@ -23,9 +23,10 @@ group :development, :test do
   gem 'sqlite3'
   gem 'spring'
   gem 'brakeman'
+  gem 'simplecov', require: false
   gem 'ruby_audit'
   gem 'spektr'
-  gem 'simplecov'
+
 end
 
 group :test do

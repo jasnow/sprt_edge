@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: aa2052ec4ceb64682828154e8669ac0327c678db
+  revision: cc0951dbb8b4564f8263622e6f58f0b094e516d9
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -252,7 +252,7 @@ GEM
     slim (5.0.0)
       temple (~> 0.10.0)
       tilt (>= 2.0.6, < 2.1)
-    spektr (0.4.0)
+    spektr (0.4.1)
       erubi
       haml
       parser (>= 2.6.0)
