@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d0d9e8e576b06c19f850751001d19efadf81df73
+  revision: 01193171f2101231ff6657f76d15310e7bef538c
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -89,6 +89,7 @@ GIT
     railties (7.1.0.alpha)
       actionpack (= 7.1.0.alpha)
       activesupport (= 7.1.0.alpha)
+      irb
       rackup (>= 1.0.0)
       rake (>= 12.2)
       thor (~> 1.0)
@@ -138,6 +139,9 @@ GEM
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
+    io-console (0.6.0)
+    irb (1.6.3)
+      reline (>= 0.3.0)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
@@ -225,6 +229,8 @@ GEM
       ffi (~> 1.0)
     rdoc (6.5.0)
       psych (>= 4.0.0)
+    reline (0.3.2)
+      io-console (~> 0.5)
     rexml (3.2.5)
     ruby-progressbar (1.13.0)
     ruby_audit (2.2.0)
@@ -249,9 +255,9 @@ GEM
       simplecov_json_formatter (~> 0.1)
     simplecov-html (0.12.3)
     simplecov_json_formatter (0.1.4)
-    slim (5.0.0)
+    slim (5.1.0)
       temple (~> 0.10.0)
-      tilt (>= 2.0.6, < 2.1)
+      tilt (>= 2.0.6, < 2.2)
     spektr (0.4.1)
       erubi
       haml
@@ -284,7 +290,7 @@ GEM
     terser (1.1.14)
       execjs (>= 0.3.0, < 3)
     thor (1.2.1)
-    tilt (2.0.11)
+    tilt (2.1.0)
     timeout (0.3.2)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
