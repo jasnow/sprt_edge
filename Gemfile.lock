@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 54ec908a2dbe344bf27d4171324a6a6146130e81
+  revision: 66099147482ea431febf20936cec903f197d24be
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -215,8 +215,9 @@ GEM
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
-    rails-html-sanitizer (1.5.0)
-      loofah (~> 2.19, >= 2.19.1)
+    rails-html-sanitizer (1.6.0)
+      loofah (~> 2.21)
+      nokogiri (~> 1.14)
     rails_12factor (0.0.3)
       rails_serve_static_assets
       rails_stdout_logging
@@ -285,7 +286,7 @@ GEM
       unicode-display_width (>= 1.5, < 3.0)
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
-    temple (0.10.1)
+    temple (0.10.2)
     terser (1.1.15)
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
