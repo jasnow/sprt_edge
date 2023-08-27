@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 55412cd9257dc27a8a9175529857ce5f2d81f92f
+  revision: 80592d6dc6c3d98ab26e4a8ab88462d6e6da87af
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -291,7 +291,7 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
-    sqlite3 (1.6.3)
+    sqlite3 (1.6.4)
       mini_portile2 (~> 2.8.0)
     stringio (3.0.8)
     strings (0.2.1)
