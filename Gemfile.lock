@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: cf10924421a4cf6e2fd70e1e54954027ef5f53cf
+  revision: 5415d3a19ad4eb26a4e57bb31c06187ea5172812
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -125,7 +125,7 @@ GEM
     execjs (2.8.1)
     ffi (1.15.5)
     formatador (1.1.0)
-    globalid (1.2.0)
+    globalid (1.2.1)
       activesupport (>= 6.1)
     guard (2.18.0)
       formatador (>= 0.2.4)
@@ -148,9 +148,9 @@ GEM
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.6.0)
-    irb (1.8.0)
-      rdoc (~> 6.5)
-      reline (>= 0.3.6)
+    irb (1.8.1)
+      rdoc
+      reline (>= 0.3.8)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
@@ -285,7 +285,7 @@ GEM
       tty-table
       zeitwerk (>= 2.6)
     spring (4.1.1)
-    sprockets (4.2.0)
+    sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
     sprockets-rails (3.4.2)
@@ -301,7 +301,7 @@ GEM
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
     temple (0.10.2)
-    terser (1.1.17)
+    terser (1.1.18)
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
     tilt (2.2.0)
@@ -323,7 +323,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.4.2)
     unicode_utils (1.4.0)
-    web-console (4.2.0)
+    web-console (4.2.1)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
