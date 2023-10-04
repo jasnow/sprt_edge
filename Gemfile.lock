@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a9fa57e1d1f456f1ec96d475252b0ca5d0f602e0
+  revision: 5cfb10074558cda90d93e460e1b2d359f80742a3
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -123,7 +123,7 @@ GEM
       ruby2_keywords
     erubi (1.12.0)
     execjs (2.9.1)
-    ffi (1.16.2)
+    ffi (1.16.3)
     formatador (1.1.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
@@ -140,7 +140,7 @@ GEM
     guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
-    haml (6.2.0)
+    haml (6.2.3)
       temple (>= 0.8.2)
       thor
       tilt
@@ -205,7 +205,7 @@ GEM
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
       rexml (~> 3.2)
-    parser (3.2.2.3)
+    parser (3.2.2.4)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -242,7 +242,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.5.0)
       psych (>= 4.0.0)
-    reline (0.3.8)
+    reline (0.3.9)
       io-console (~> 0.5)
     rexml (3.2.6)
     ruby-progressbar (1.13.0)
@@ -300,7 +300,7 @@ GEM
       unicode-display_width (>= 1.5, < 3.0)
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
-    temple (0.10.2)
+    temple (0.10.3)
     terser (1.1.18)
       execjs (>= 0.3.0, < 3)
     thor (1.2.2)
