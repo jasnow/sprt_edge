@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 358d3d3164bef399b19b089f5fed8664a2c3d39e
+  revision: 174ab6c342b5bb560dfb5d15bba44f89aa1c0bed
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -161,7 +161,7 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    loofah (2.21.3)
+    loofah (2.21.4)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
     lumberjack (1.2.9)
@@ -213,7 +213,7 @@ GEM
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    psych (5.1.0)
+    psych (5.1.1)
       stringio
     racc (1.7.1)
     rack (3.0.8)
@@ -292,7 +292,7 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
-    sqlite3 (1.6.6)
+    sqlite3 (1.6.7)
       mini_portile2 (~> 2.8.0)
     stringio (3.0.9)
     strings (0.2.1)
