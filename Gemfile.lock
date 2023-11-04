@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 296664d59e4c65664de8928bd0d5bb68c1905573
+  revision: 8c82595b8c862eb087615a14f61ded528274eeae
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -184,7 +184,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     nenv (0.3.0)
-    net-imap (0.4.3)
+    net-imap (0.4.4)
       date
       net-protocol
     net-pop (0.1.2)
@@ -214,7 +214,7 @@ GEM
       method_source (~> 1.0)
     psych (5.1.1.1)
       stringio
-    racc (1.7.2)
+    racc (1.7.3)
     rack (3.0.8)
     rack-session (2.0.0)
       rack (>= 3.0.0)
