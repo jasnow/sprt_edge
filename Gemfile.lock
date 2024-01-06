@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 1702b6cbfd062400aa66fc848bcfd7b3924dc6be
+  revision: fb5687491254511bc8e0d330adfeef4c1a8a7289
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -219,7 +219,7 @@ GEM
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
       rexml (~> 3.2)
-    parser (3.2.2.4)
+    parser (3.3.0.0)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -256,7 +256,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.6.2)
       psych (>= 4.0.0)
-    reline (0.4.1)
+    reline (0.4.2)
       io-console (~> 0.5)
     rexml (3.2.6)
     ruby-progressbar (1.13.0)
