@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 778039b896be1dcb3da606f761921d006cab67c9
+  revision: 64fadc6ffe2cdb9c3fe5e880a49356d3d3a19e2d
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -166,7 +166,7 @@ GEM
       net-pop
       net-smtp
     marcel (1.0.4)
-    method_source (1.0.0)
+    method_source (1.1.0)
     mini_backtrace (0.1.3)
       minitest (> 1.2.0)
       rails (>= 2.3.3)
@@ -249,7 +249,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
-    reline (0.5.1)
+    reline (0.5.2)
       io-console (~> 0.5)
     rexml (3.2.6)
     ruby-progressbar (1.13.0)
