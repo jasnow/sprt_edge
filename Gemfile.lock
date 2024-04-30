@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a94938f10ce0f34c765028e518caed6527a31d11
+  revision: f963d4a7f25c8c7ba5d874cce96a98735fb36ce2
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -249,7 +249,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
-    reline (0.5.3)
+    reline (0.5.4)
       io-console (~> 0.5)
     rexml (3.2.6)
     ruby-progressbar (1.13.0)
@@ -384,7 +384,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.3.0p0
+   ruby 3.3.1p55
 
 BUNDLED WITH
    2.5.9
